@@ -15,7 +15,7 @@
 
 ## Зависимости
 - Python 3.8+
-- [cmrfetch](https://github.com/nasa/CMR-CLI) (должен быть установлен и доступен в `PATH`)
+- [cmrfetch](https://github.com/bmflynn/cmrfetch) (должен быть установлен и доступен в `PATH`)
 - `h5py`
 - `xarray`
 - `numpy`
